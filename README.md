@@ -10,3 +10,6 @@ Os alunos deverão desempenhar as seguintes atividades:
 - Essa combinação de valores deve ser utilizada para preencher a cor de fundo de uma "div" quadrada.
 
 - Além disso, inclua três inputs de texto somente-leitura (desabilitados) para a visualização do valor atual de cada input do tipo range. 4. À medida em que o usuário modifica o valor dos ranges com as teclas ← e → do teclado, a "div" deve refletir a cor correspondente.
+
+A visualização do site pode ser feita em https://acsilva-alss.github.io/RGBVisualization/
+
